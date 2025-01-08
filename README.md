@@ -1,0 +1,1 @@
+Dummy repository for learning version control systems like git
